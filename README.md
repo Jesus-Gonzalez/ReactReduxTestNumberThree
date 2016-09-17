@@ -1,4 +1,4 @@
-# ReactReduxTestNumberOne
+# Simple React and Redux Boilerplate
 
 Simple React and Redux boilerplate.
 
