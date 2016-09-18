@@ -39,4 +39,4 @@ I'll soon link to a more advanced boilerplate `AvancedReactReduxBoilerplate`
 which will include routing with React Router,  
 linting, and testing with mocha, chai and enzyme libs
 
-Stay tuned! :)
+Stay tuned! :memo:
